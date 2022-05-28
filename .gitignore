@@ -1,15 +1,9 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+*.tar.zst
 *.log
 *.log.*
 *.sig
 
 pkg/
 src/
-output/astrolinux-2022.05.01-x86_64.iso
-output/astrolinux-2022.05.28-x86_64.iso
+output/*
+custompkgs/*
