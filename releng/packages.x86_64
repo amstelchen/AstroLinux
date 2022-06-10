@@ -14,6 +14,7 @@ dhclient
 dhcpcd
 dnsmasq
 dosfstools
+e2fsprogs
 edk2-shell
 efibootmgr
 espeakup
@@ -23,11 +24,13 @@ fatresize
 fsarchiver
 gnu-netcat
 gpart
+gparted
 gpm
 gptfdisk
 grub
 grub-btrfs
 hdparm
+htop
 hyperv
 intel-ucode
 ipw2100-fw
@@ -50,6 +53,7 @@ lynx
 memtest86+
 mkinitcpio
 mkinitcpio-archiso
+most
 nano
 openssh
 ppp
@@ -88,5 +92,9 @@ xorg-xinit
 xfce4
 bash
 stellarium
+qt5-webengine
 calamares
 firefox
+variety
+xdg-user-dirs
+xdg-utils

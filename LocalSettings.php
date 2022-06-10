@@ -1,0 +1,1 @@
+/usr/share/webapps/mediawiki/LocalSettings.php
