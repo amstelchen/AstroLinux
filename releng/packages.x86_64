@@ -26,6 +26,7 @@ gpart
 gpm
 gptfdisk
 grub
+grub-btrfs
 hdparm
 hyperv
 intel-ucode
@@ -87,3 +88,5 @@ xorg-xinit
 xfce4
 bash
 stellarium
+calamares
+firefox
