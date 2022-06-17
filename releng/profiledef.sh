@@ -20,5 +20,6 @@ file_permissions=(
   ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
+  ["/usr/local/bin/astrolinux-welcome-app"]="0:0:755"
   ["/home/astro/"]="1000:1000:700"
 )
