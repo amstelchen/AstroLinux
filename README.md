@@ -19,8 +19,12 @@ Packages included
 
 ![](assets/Screenshot_AstroLinux.png)
 
+#### Known issues
+
+See [here](https://github.com/amstelchen/AstroLinux/issues)
+
 #### Licenses
 
-*__Astro Linux__* is licensed under the terms of the **GPL-3.0-or-later** (see [LICENSE](LICENSE)).
-<a href="https://www.flaticon.com/free-icons/astronomy" title="astronomy icons">Astronomy icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/landing-page" title="landing page icons">Landing page icons created by Flat Icons - Flaticon</a>
+*__Astro Linux__* is licensed under the terms of the **GPL-3.0-or-later** (see [LICENSE](LICENSE)).  
+<a href="https://www.flaticon.com/free-icons/astronomy" title="astronomy icons">Astronomy icons created by Freepik - Flaticon</a>  
+<a href="https://www.flaticon.com/free-icons/landing-page" title="landing page icons">Landing page icons created by Flat Icons - Flaticon</a>  
