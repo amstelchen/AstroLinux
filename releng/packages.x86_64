@@ -94,7 +94,13 @@ bash
 stellarium
 qt5-webengine
 calamares
+#calamares-git
+#kdbusaddons-git
+#kcoreaddons-git
 firefox
 variety
 xdg-user-dirs
 xdg-utils
+python-wxpython
+pamac-aur
+archlinux-appstream-data
