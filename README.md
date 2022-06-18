@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I6DC1X9)
+
 # AstroLinux
 
 <p align="center">
