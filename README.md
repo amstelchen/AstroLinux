@@ -15,7 +15,23 @@ ISO Size
 
 Packages included
 
+#### What programs are included?
+
+On the installation image / after a disk install:
+
+- Stellarium
+
+Optinal programs the user might want to install:
+
+- TODO
+
 #### Screenshots
+
+Astro Linux Welcome App
+
+![](assets/Screenshot_AstroLinux_Welcome.png)
+
+Astro Linux Installer (using Calamares)
 
 ![](assets/Screenshot_AstroLinux.png)
 
