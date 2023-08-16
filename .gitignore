@@ -9,3 +9,4 @@ output/*
 custompkgs/*
 *~
 *.wxg*
+releng-archlinux/*
