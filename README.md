@@ -11,17 +11,20 @@
 
 TODO
 
-Features
+#### Verify signature
 
-ISO Size
+It is recommended to verify the image signature before use. On a system with GnuPG installed, do this by downloading the ISO PGP signature to the same directory than the ISO file, and verifying it with:
 
-Packages included
+    $ gpg --verify astrolinux-version-x86_64.iso.asc
+
+The ISO Size is mostly about 1.5 GB.
 
 #### What programs are included?
 
 On the installation image / after a disk install:
 
 - Stellarium
+- TODO
 
 Optinal programs the user might want to install:
 
